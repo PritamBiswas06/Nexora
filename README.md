@@ -4,7 +4,7 @@ Nexora is a **full-stack social media application** built with **Spring Boot (ba
 It provides features like **user authentication, post creation, likes, and comments**, offering a modern and responsive UI.
 
 ---
-
+ 
 ## 🚀 Tech Stack
 - **Backend:** Java, Spring Boot, REST API, MySQL, JWT
 - **Frontend:** Next.js (React), Tailwind CSS
